@@ -108,11 +108,9 @@ body {
     }
   }
 
-  &__image {
-    img {
-      width: 100%;
-      height: auto;
-    }
+  .card__image {
+    width: 100%;
+    height: auto;
   }
 
   &__content {
